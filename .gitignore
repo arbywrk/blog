@@ -1,0 +1,13 @@
+# Zola build output
+public/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~

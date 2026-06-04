@@ -1,0 +1,13 @@
+base_url = "https://arbywrk.com"
+title = "Rares Bogdan"
+description = ""
+compile_sass = false
+build_search_index = false
+
+[markdown]
+
+[markdown.highlighting]
+theme = "catppuccin-mocha"
+
+[extra]
+author = "Rares Bogdan"

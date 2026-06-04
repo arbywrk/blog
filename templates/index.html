@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+
+{% block content %}
+{% set blog = get_section(path="blog/_index.md") %}
+<ul class="post-list">
+  {% for page in blog.pages %}
+  <li>
+    <span class="post-date">{{ page.date | date(format="%d.%m.%Y") }}</span>
+    <span class="post-title"><a href="{{ page.permalink | safe }}">{{ page.title }}</a></span>
+  </li>
+  {% endfor %}
+</ul>
+{% endblock content %}
