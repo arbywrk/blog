@@ -3,8 +3,8 @@ title = "About"
 template = "page.html"
 +++
 
-Hi, I'm Rares (a.k.a arby), a CS student passionat about all kind of cool (to me) stuff.
+Hi, I'm arby! I am a CS student working in embedded automotive as a software engineer.
 
-This site is where I write about topics I find interesting or worth documenting.
+This blog is where I write about topics I find interesting or worth documenting.
 
-You can reach me at [bogdan.andrei.rares@gmail.com](mailto:bogdan.andrei.rares@gmail.com).
+You can reach me at [contact@arbywrk.com](mailto:contact@arbywrk.com).
