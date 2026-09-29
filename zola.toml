@@ -1,6 +1,6 @@
 base_url = "https://arbywrk.com"
-title = "Rares Bogdan"
-description = ""
+title = "ArbyWrk"
+description = "Personal tech blog."
 compile_sass = false
 build_search_index = false
 
@@ -10,4 +10,4 @@ build_search_index = false
 theme = "catppuccin-mocha"
 
 [extra]
-author = "Rares Bogdan"
+author = "Rares-Andrei Bogdan"
